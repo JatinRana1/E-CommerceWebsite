@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "C++ by Mark Reed",
+        "price": 1000,
+        "img": "./Image/book.png"
+    },  
+    
+    {
+        "id": 2,
+        "name": "MacBook M2 Pro",
+        "price": 10000,
+        "img": "./Image/MacBook.jpg"
+    },
+    
+    {
+        "id": 3,
+        "name": "Banana(12pcs.)",
+        "price": 50,
+        "img": "./Image/banana.jpg"
+    },
+    
+    {
+        "id": 4,
+        "name": "Mercedes",
+        "price": 250000,
+        "img": "./Image/Car.jpg"
+    }
+
+]
